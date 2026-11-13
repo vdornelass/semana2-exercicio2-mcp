@@ -1,0 +1,7 @@
+python-dotenv
+langchain[mcp]
+langgraph
+langgraph-cli[inmem]
+anthropic
+langfuse
+langchain-openai
